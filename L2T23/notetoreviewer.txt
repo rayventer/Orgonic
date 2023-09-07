@@ -1,0 +1,5 @@
+I created a website called orgonic where you can make and look at posts. making posts requires login and sign in and log in are suported. Ignore search posts as it isnt functional as of yet.
+the homepage, create posts page, and view posts page are my three functional webpages
+posts only has index which is home page which has links to login which links to sign up and returns to home page,
+it also has a link to make a post, and see all posts which is coded in user_auth. login required was used for creating posts and 
+user authentification was used in login and registration.
